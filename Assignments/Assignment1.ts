@@ -71,3 +71,5 @@ console.log("The distance between the two cities is: " + distanceBetweenCities +
 let birthplace: string = 'New York City';
 console.log ("The person's birthplace is: " + birthplace);
 
+
+
